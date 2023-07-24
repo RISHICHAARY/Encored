@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Encored-ResumeBuilder/static/css/main.1973b7f6.css",
+    "main.js": "/Encored-ResumeBuilder/static/js/main.b15b55d1.js",
+    "static/media/LogoFinal.jpg": "/Encored-ResumeBuilder/static/media/LogoFinal.df6e6e8c008607ac9817.jpg",
+    "index.html": "/Encored-ResumeBuilder/index.html",
+    "main.1973b7f6.css.map": "/Encored-ResumeBuilder/static/css/main.1973b7f6.css.map",
+    "main.b15b55d1.js.map": "/Encored-ResumeBuilder/static/js/main.b15b55d1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1973b7f6.css",
+    "static/js/main.b15b55d1.js"
+  ]
+}
